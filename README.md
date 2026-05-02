@@ -137,4 +137,4 @@ All agents read from and write to a central **Knowledge Base**, enabling modular
 
 ## ✅ Status
 
-**COMPLETED** — Submitted as COOP-II (Project at Industry, Module-2) in partial fulfilment of the requirements for the award of the degree of Bachelor of Engineering in Computer Science and Engineering, Chitkara University, Punjab, India, 2024–25.
+**COMPLETED** — Submitted as COOP-II (Project at Industry, Module-2) 
